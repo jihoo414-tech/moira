@@ -132,15 +132,3 @@ npm run dev
 
 
 ---
-
-## Team
-
-**Programmers Backend Devcourse 12기 14회차 · Team 02**
-
-| GitHub |
-| --- |
-| [@sowon11](https://github.com/sowon11) |
-| [@jihoo414-tech](https://github.com/jihoo414-tech) |
-| [@jinni1](https://github.com/jinni1) |
-| [@jjjonghyeon](https://github.com/jjjonghyeon) |
-| [@minj00-kim](https://github.com/minj00-kim) |
