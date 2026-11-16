@@ -15,6 +15,17 @@
 - 투표가 끝나거나 정산이 완료되면 알림을 보냅니다
 
 ---
+## 👥 팀 구성
+
+| 담당 | GitHub |
+| --- | --- |
+| 모임·초대 | [sowon11](https://github.com/sowon11) |
+| 회원·인증 | [jinni1](https://github.com/jinni1) |
+| Schedule | [jihoo414-tech](https://github.com/jihoo414-tech) |
+| 콘텐츠 투표·알림 | [jjjonghyeon](https://github.com/jjjonghyeon) |
+| 비용·정산 | [minj00-kim](https://github.com/minj00-kim) |
+
+---
 ## 🛠 Tech Stack
 
 ### Backend
